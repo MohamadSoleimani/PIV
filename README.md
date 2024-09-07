@@ -56,7 +56,7 @@ By deriving the quadratic equation, the location of the maximum correlation can 
 
 The results of the free convection experiment demonstrate the effectiveness of the PIV method in capturing the velocity field within the convection currents. The analysis shows a consistent pattern of particle movement corresponding to the expected flow behavior. The comparison with the commercial PIV lab software indicates a high level of accuracy, with deviations within acceptable limits.
 
-![Free Convection Experiment Results](assets/img/posts/projects/piv_1.png)
+![Free Convection Experiment Results](Figures/piv_1.png)
 
 *Figure 1: Free Convection Velocity Field*
 
@@ -64,6 +64,6 @@ The results of the free convection experiment demonstrate the effectiveness of t
 
 In the jet experiment, the PIV method successfully captured the velocity distribution of the jet flow. The results highlight the ability of the PIV method to track rapid changes in particle displacement, particularly in high-speed regions. The comparison with commercial software confirms the reliability of the Python code, with minor discrepancies attributed to the resolution and window size selection.
 
-![Jet Experiment Results](assets/img/posts/projects/piv_2.png)
+![Jet Experiment Results](Figures/piv_2.png)
 
 *Figure 2: Jet Velocity Field*
