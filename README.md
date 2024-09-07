@@ -38,8 +38,8 @@ $$
 
 This system of equations is solved using the values of five adjacent points to calculate the coefficients:
 
-$- a \cdot 0^2 + b \cdot 0^2 + c \cdot 0 \cdot 0 + d \cdot 0 + e \cdot 0 + f = R_{cormx}[ij] $
-$-  a \cdot 1^2 + b \cdot 0^2 + c \cdot 1 \cdot 0 + d \cdot 1 + e \cdot 0 + f = R_{cormx}[ij+1] $
+-$$a \cdot 0^2 + b \cdot 0^2 + c \cdot 0 \cdot 0 + d \cdot 0 + e \cdot 0 + f = R_{cormx}[ij] $$//
+$$-  a \cdot 1^2 + b \cdot 0^2 + c \cdot 1 \cdot 0 + d \cdot 1 + e \cdot 0 + f = R_{cormx}[ij+1] $$
 -  a \cdot (-1)^2 + b \cdot 0^2 + c \cdot (-1) \cdot 0 + d \cdot (-1) + e \cdot 0 + f = R_{cormx}[ij-1]
 -  a \cdot 0^2 + b \cdot 1^2 + c \cdot 0 \cdot 1 + d \cdot 0 + e \cdot 1 + f = R_{cormx}[i+1j] $$
 -  a \cdot 0^2 + b \cdot (-1)^2 + c \cdot 0 \cdot (-1) + d \cdot 0 + e \cdot (-1) + f = R_{cormx}[i-1j] 
