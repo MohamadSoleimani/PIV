@@ -42,11 +42,11 @@ $$  a \cdot 0^2 + b \cdot 0^2 + c \cdot 0 \cdot 0 + d \cdot 0 + e \cdot 0 + f = 
 
 $$  a \cdot 1^2 + b \cdot 0^2 + c \cdot 1 \cdot 0 + d \cdot 1 + e \cdot 0 + f = R_{cormx}[ij+1] $$
 
-$  a \cdot (-1)^2 + b \cdot 0^2 + c \cdot (-1) \cdot 0 + d \cdot (-1) + e \cdot 0 + f = R_{cormx}[ij-1]$
+$$  a \cdot (-1)^2 + b \cdot 0^2 + c \cdot (-1) \cdot 0 + d \cdot (-1) + e \cdot 0 + f = R_{cormx}[ij-1]$$
 
-$  a \cdot 0^2 + b \cdot 1^2 + c \cdot 0 \cdot 1 + d \cdot 0 + e \cdot 1 + f = R_{cormx}[i+1j] $
+$$  a \cdot 0^2 + b \cdot 1^2 + c \cdot 0 \cdot 1 + d \cdot 0 + e \cdot 1 + f = R_{cormx}[i+1j] $$
 
-$  a \cdot 0^2 + b \cdot (-1)^2 + c \cdot 0 \cdot (-1) + d \cdot 0 + e \cdot (-1) + f = R_{cormx}[i-1j]$ 
+$$  a \cdot 0^2 + b \cdot (-1)^2 + c \cdot 0 \cdot (-1) + d \cdot 0 + e \cdot (-1) + f = R_{cormx}[i-1j] $$ 
 
 By deriving the quadratic equation, the location of the maximum correlation can be calculated with an accuracy of 0.1 pixels.
 
