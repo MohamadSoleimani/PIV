@@ -56,7 +56,7 @@ By deriving the quadratic equation, the location of the maximum correlation can 
 
 The results of the free convection experiment demonstrate the effectiveness of the PIV method in capturing the velocity field within the convection currents. The analysis shows a consistent pattern of particle movement corresponding to the expected flow behavior. The comparison with the commercial PIV lab software indicates a high level of accuracy, with deviations within acceptable limits.
 
-![Free Convection Experiment Results](Figures/piv_1.png)
+![Free Convection Experiment Results](Figures/piv_1_1.png)
 
 *Figure 1: Free Convection Velocity Field*
 
